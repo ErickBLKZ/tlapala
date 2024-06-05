@@ -1,2 +1,5 @@
     var x=5;
-    console.log(x);
+    var c=5;
+    suma = x+c
+    console.log(suma);
+    
